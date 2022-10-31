@@ -1,0 +1,12 @@
+D:\Code visual\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Code visual\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Code visual\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Code visual\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Code visual\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.SuggestedBindingRedirects.cache
+D:\Code visual\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Code visual\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Code visual\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Code visual\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Code visual\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\Code visual\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormLogin.resources
+D:\Code visual\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormMain.resources
